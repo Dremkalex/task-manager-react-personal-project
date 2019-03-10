@@ -8,6 +8,8 @@ settings:
 
 parserOptions:
     sourceType: "module"
+    ecmaFeatures:
+      legacyDecorators: true
 
 plugins:
   - react
